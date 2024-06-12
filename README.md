@@ -26,6 +26,10 @@ The visualization is made using Gradio. In it you are able enter digits using yo
 *Demo Video*
 
 
+https://github.com/DuanBoomer/Handwritten-Digits-Classification/assets/75297171/72e61d5e-9e4f-4343-a5af-4479f4b507be
+
+
+
 <br>[![PyPI Downloads](https://img.shields.io/badge/Made%20with%20%F0%9F%92%96%20by-Chirag-brightgreen?style=for-the-badge&logo=appveyor)](
 https://github.com/DuanBoomer)
 
